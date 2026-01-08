@@ -106,6 +106,7 @@ print(f"Residual std: {decomposition.resid.std():.2f}")
 
 
 ```
+<img width="4200" height="2400" alt="time_series_decomposition" src="https://github.com/user-attachments/assets/b8630e37-429f-4b4b-9988-767f49c24563" />
 
 
 ## Data Processing Notes
